@@ -15,6 +15,8 @@
     <button id="generateBilanganPrima" style="float:left">Generate Bilangan Prima</button>
     <br>
     <br>
+    <h4>Result:</h4>
+    <br>
     <div id="hasil"></div>
 </body>
 <script src="jquery/jquery.js"></script>
